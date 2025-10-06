@@ -19,7 +19,7 @@
 
 #### ***Introducción***. <a name="id1"></a>
 
-La idea para nuestra aplicación web ha sido la creación de un blog para juegos, donde el creador expresa una pequeña descripción de su juego acompañada de algunos detalles como fecha de lanzamiento, quien lo desarrolló, quien lo distribuyó, donde se puedia o puede jugar y ademas las valoraciones de los usuarios donde pueden ofrecer una breve review del juego y aparte tu o el resto de los jugadores pueden ver o dejar registrado los juegos que estas jugando, que te haz pasado o que estás jugando de nuevo
+La idea para nuestra aplicación web ha sido la creación de un blog para llevar un registro de los juegos tanto que queramos jugar/tengamos planeados/hayamos dejado/pausado así como añadirlos a un registro de colección (teniendo dos registros distintos, uno para colección y otro para la lista). Además se puedes crear reviews.
 
 #### ***Desarrollo***. <a name="id2"></a>
 
@@ -55,15 +55,21 @@ Para llevar a cabo tanto el mockup como el prototipo hemos utilizado [Penpot](ht
 
 - Version de Navegador:
 
-<div align="center"><img src="./img"></div>
+<div align="center">
+    <img src="./img/register.png">
+    <img src="./img/login.png">
+    <img src="./img/home-web.png">
+    <img src="./img/game.png">
+
+</div>
 
 ***
 
 <br>
 
-- Version de Table:
+- Version de Tablet:
 
-<div align="center"><img src="./img"></div>
+<div align="center"><img src="./img/tablet-view.png"></div>
 
 ***
 
@@ -71,7 +77,7 @@ Para llevar a cabo tanto el mockup como el prototipo hemos utilizado [Penpot](ht
 
 - Version de Móvil:
 
-<div align="center"><img src="./img"></div>
+<div align="center"><img src="./img/phone-view.png"></div>
 
 ***
 
