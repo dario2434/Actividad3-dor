@@ -22,6 +22,11 @@ La idea para nuestra aplicación web ha sido la creación de un blog para llevar
 
 #### ***Desarrollo***. <a name="id2"></a>
 
+En primer lugar, seleccionamos la siguiente paleta de colores:
+
+<div align="center"><img src="./img/color-pallete.png"></div>
+
+
 ##### Mapa de Navegación
 Hemos realizado el mapa de navegación con la siguiente herramienta [Miro](miro.com). 
 
@@ -31,7 +36,7 @@ Hemos realizado el mapa de navegación con la siguiente herramienta [Miro](miro.
 > [Enlace al proyecto en Miro.](https://miro.com/welcomeonboard/OWEvV2JHUXF5bFlTekl0MGxaVWdPclpRZlh2enhHZEg1cjVsdHJCTnhBbFo2U2x2Qjh1VXFZOXlvaW9GRlQ3anl2RXlFUytZOUxTNVowSGJVNmlHekwxZjdkR2E2WnhWZmpPR3dTSDQ3VEdjOWlFL1NLMmdxeGxPR1lyNG9kRVVhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=344454388427)
 
 ##### Sketch
-Hemos realizado el skecth a mano alzada, y ha quedado de la siguiente manera:
+Por parte del skecth, lo hemos hecho a mano alzada, y ha quedado de la siguiente manera:
 
 <div align="center"><img src="./img/DOR-sketch.PNG"></div>
 
