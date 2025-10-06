@@ -14,7 +14,6 @@
 
 + [Introducción](#id1)
 + [Desarrollo](#id2)
-+ [Conclusiones](#id3)
 
 
 #### ***Introducción***. <a name="id1"></a>
@@ -24,7 +23,7 @@ La idea para nuestra aplicación web ha sido la creación de un blog para llevar
 #### ***Desarrollo***. <a name="id2"></a>
 
 ##### Mapa de Navegación
-Hemos realizado el mapa de navegación con la siguiente herramienta [Miro](miro.com).
+Hemos realizado el mapa de navegación con la siguiente herramienta [Miro](miro.com). 
 
 
 <div align="center"><img src="./img/DOR-mapa-nav.jpg"></div>
@@ -43,7 +42,6 @@ Podemos observar como se han diseñado las pantallas de autenticación y la pág
 En cuanto al Wireframe de la aplicación hemos usado [Moqups](moqups.com/es). 
 
 En esta etapa del diseño decidimos añadir una pantalla más que en el sketch para detallar la aplicación un poco más, así que obtenemos un total de 4 pantallas (register, login (autenticación), home y pantalla de detalles de un juego).
- 
 
 
 <div align="center">
@@ -53,12 +51,18 @@ En esta etapa del diseño decidimos añadir una pantalla más que en el sketch p
     <img src="./img/DOR-wf-4.png">
 </div>
 
-> [Enlace al proyecto en Moqups.]()
+> [Enlace al proyecto en Moqups.](https://app.moqups.com/izG072Ba1bnODchJuS7rsXmJGD67F0t9/view/page/ad64222d5)
 
 
 ##### Mockup y Prototipo
 
-Para llevar a cabo tanto el mockup como el prototipo hemos utilizado [Penpot](https://penpot.app/).
+Para llevar a cabo tanto el mockup como el prototipo hemos utilizado [Penpot](https://penpot.app/). 
+
+Este muestra la ruta que seguiría un usuario que se registra para usar la web (el registro es opcional). Luego de registrarse es llevado al login, y luego de iniciar sesión accede al home. 
+
+El home es visible para usuarios no registrados también, pero tendría algunas funciones limitadas, como añadir juegos a tu colección, a tu lista y dejar una review. 
+
+Al hacer click en un juego, te lleva a la página de detalles sobre este, donde si está registrado, podría darle una puntuación y dejar una review.
 
 - Version de Navegador:
 
@@ -96,10 +100,5 @@ Para llevar a cabo tanto el mockup como el prototipo hemos utilizado [Penpot](ht
 
 ***
 
-<br>
 
-
-#### ***Conclusiones***. <a name="id3"></a>
-
-En esta parte debemos exponer las conclusiones que sacamos del desarrollo de la prácica.
 </div>
