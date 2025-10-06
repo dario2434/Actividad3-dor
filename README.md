@@ -24,32 +24,66 @@ La idea para nuestra aplicación web ha sido la creación de un blog para juegos
 #### ***Desarrollo***. <a name="id2"></a>
 
 ##### Mapa de Navegación
-Hemos realizado el mapa de navegación con la siguiente herramienta [miro](miro.com).
+Hemos realizado el mapa de navegación con la siguiente herramienta [Miro](miro.com).
 
 <div align="center"><img src="./img/DOR-mapa-nav.jpg"></div>
 
-> [Enlace al proyecto en miro.](https://miro.com/welcomeonboard/OWEvV2JHUXF5bFlTekl0MGxaVWdPclpRZlh2enhHZEg1cjVsdHJCTnhBbFo2U2x2Qjh1VXFZOXlvaW9GRlQ3anl2RXlFUytZOUxTNVowSGJVNmlHekwxZjdkR2E2WnhWZmpPR3dTSDQ3VEdjOWlFL1NLMmdxeGxPR1lyNG9kRVVhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=344454388427)
+> [Enlace al proyecto en Miro.](https://miro.com/welcomeonboard/OWEvV2JHUXF5bFlTekl0MGxaVWdPclpRZlh2enhHZEg1cjVsdHJCTnhBbFo2U2x2Qjh1VXFZOXlvaW9GRlQ3anl2RXlFUytZOUxTNVowSGJVNmlHekwxZjdkR2E2WnhWZmpPR3dTSDQ3VEdjOWlFL1NLMmdxeGxPR1lyNG9kRVVhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=344454388427)
 
 ##### Sketch
-Hemos realizado el skecth a mano alzada, y ha quedado de la siguiente manera.
+Hemos realizado el skecth a mano alzada, y ha quedado de la siguiente manera:
 
 <div align="center"><img src="./img/DOR-sketch.PNG"></div>
 
 
 ##### Wireframe
-Hemos realizado el Wireframe de la apllicación con la siguiente herramienta [mockup](miro.com).
+En cuanto al Wireframe de la aplicación hemos usado [Moqups](moqups.com/es).
 
-<div align="center"><img src="./img/DOR-mapa-nav.jpg"></div>
+<div align="center">
+    <img src="./img/DOR-wf-1.png">
+    <img src="./img/DOR-wf-2.png">
+    <img src="./img/DOR-wf-3.png">
+    <img src="./img/DOR-wf-4.png">
+</div>
 
-> [Enlace al proyecto en miro.]()
+> [Enlace al proyecto en Moqups.]()
 
 
 ##### Mockup y Prototipo
-Hemos realizado el mapa de navegación con la siguiente herramienta [miro](miro.com).
 
-<div align="center"><img src="./img/DOR-mapa-nav.jpg"></div>
+Para llevar a cabo tanto el mockup como el prototipo hemos utilizado [Penpot](https://penpot.app/).
 
-> [Enlace al proyecto en miro.]()
+- Version de Navegador:
+
+<div align="center"><img src="./img"></div>
+
+***
+
+<br>
+
+- Version de Table:
+
+<div align="center"><img src="./img"></div>
+
+***
+
+<br>
+
+- Version de Móvil:
+
+<div align="center"><img src="./img"></div>
+
+***
+
+<br>
+
+- Prototipo:
+
+<div align="center"><img src="./img"></div>
+
+***
+
+<br>
 
 
 #### ***Conclusiones***. <a name="id3"></a>
