@@ -35,6 +35,8 @@ Hemos realizado el skecth a mano alzada, y ha quedado de la siguiente manera:
 
 <div align="center"><img src="./img/DOR-sketch.PNG"></div>
 
+Podemos observar como se han diseñado las pantallas de autenticación y la página principal.
+
 
 ##### Wireframe
 En cuanto al Wireframe de la aplicación hemos usado [Moqups](moqups.com/es).
