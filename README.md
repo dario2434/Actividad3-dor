@@ -79,7 +79,7 @@ Para llevar a cabo tanto el mockup como el prototipo hemos utilizado [Penpot](ht
 
 - Prototipo:
 
-<div align="center"><img src="./img"></div>
+<div align="center"><img src="./img/DOR-prototipo.png"></div>
 
 ***
 
