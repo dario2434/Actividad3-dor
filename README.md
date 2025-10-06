@@ -26,6 +26,7 @@ La idea para nuestra aplicación web ha sido la creación de un blog para llevar
 ##### Mapa de Navegación
 Hemos realizado el mapa de navegación con la siguiente herramienta [Miro](miro.com).
 
+
 <div align="center"><img src="./img/DOR-mapa-nav.jpg"></div>
 
 > [Enlace al proyecto en Miro.](https://miro.com/welcomeonboard/OWEvV2JHUXF5bFlTekl0MGxaVWdPclpRZlh2enhHZEg1cjVsdHJCTnhBbFo2U2x2Qjh1VXFZOXlvaW9GRlQ3anl2RXlFUytZOUxTNVowSGJVNmlHekwxZjdkR2E2WnhWZmpPR3dTSDQ3VEdjOWlFL1NLMmdxeGxPR1lyNG9kRVVhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=344454388427)
@@ -39,7 +40,11 @@ Podemos observar como se han diseñado las pantallas de autenticación y la pág
 
 
 ##### Wireframe
-En cuanto al Wireframe de la aplicación hemos usado [Moqups](moqups.com/es).
+En cuanto al Wireframe de la aplicación hemos usado [Moqups](moqups.com/es). 
+
+En esta etapa del diseño decidimos añadir una pantalla más que en el sketch para detallar la aplicación un poco más, así que obtenemos un total de 4 pantallas (register, login (autenticación), home y pantalla de detalles de un juego).
+ 
+
 
 <div align="center">
     <img src="./img/DOR-wf-1.png">
